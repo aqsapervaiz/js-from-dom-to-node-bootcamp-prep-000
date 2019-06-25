@@ -1,2 +1,1 @@
-// write your code below!
-node index.JS
+// write your code below
